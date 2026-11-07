@@ -15,7 +15,7 @@ SEVESO-classified industrial site, and technical support.
     <td valign="top">
       <a href="https://github.com/lborruto/kelvin"><b>Kelvin</b></a><br>
       Self-hosted control for Cozytouch electric radiators: rooms, weekly schedules, Linky energy
-      history and what it costs on your tariff, with an MCP server for Claude.<br>
+      history and what it costs on your tariff, with a read-only MCP server for Claude.<br>
       <sub>Python · PWA · Docker</sub>
     </td>
   </tr>
@@ -35,11 +35,12 @@ SEVESO-classified industrial site, and technical support.
   project. TypeScript.
 - **[jackstream](https://github.com/lborruto/jackstream)**: a Stremio addon that streams torrents
   found by your Jackett. One 20 MB Go container.
-- **[Pokémon DS widescreen](https://github.com/mamesj/pokemon-fulldex)** (contributor): a widescreen,
-  60 fps port of the Pokémon DS games. French ROM support: tested on all seven games, added the
-  missing weather functions.
+- **[Pokémon Fulldex](https://github.com/mamesj/pokemon-fulldex)** (contributor): the Pokémon DS and
+  GBA games in widescreen at 60 fps, on PC, Mac, handhelds, phones and Switch. French ROM support:
+  tested on the original seven DS games, added the missing weather functions. C++.
 - **Black Ops II Zombies mods** (Plutonium T6): [Magmagat for Mob of the Dead](https://github.com/lborruto/t6_motd_magmagat)
   and [Dead Frequency](https://github.com/lborruto/t6_dead_frequency), a new Easter egg for TranZit.
+  GSC.
 
 ### Toolbox
 
