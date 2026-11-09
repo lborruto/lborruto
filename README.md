@@ -1,11 +1,13 @@
 ## Luca Borruto
 
-DevOps / Platform Engineer, based near Geneva. At [Agicap](https://agicap.com) I work on multi-cloud
-Kubernetes (Azure AKS, Google GKE), Terraform and GitOps, and the network and identity layer
-underneath. Before that, six years in IT: system administration, infrastructure projects on a
+DevOps / Platform Engineer, based near Geneva. At [Agicap](https://agicap.com) I built and run the
+internal platform: Kubernetes (GKE, AKS), Terraform applied through Atlantis, GitOps with ArgoCD,
+Vault, Prometheus, Grafana and Loki, with 49 apps on it. I also build the tools on top, like a
+Kubernetes operator that manages the whole Okta configuration from Git, and Alfred, an LLM support
+bot on Slack. Before that, six years in IT: system administration, infrastructure projects on a
 SEVESO-classified industrial site, and technical support.
 
-[luca-borruto.com](https://luca-borruto.com) · [CV](https://standardresume.co/r/av5dbEhoo2CGPeB3ndCPV) · [LinkedIn](https://www.linkedin.com/in/lborruto/) · [Notes](https://docs.luca-borruto.com)
+[luca-borruto.com](https://luca-borruto.com) · [CV](https://luca-borruto.com/luca-borruto-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/lborruto/) · [Notes](https://docs.luca-borruto.com)
 
 ### Side projects
 
@@ -45,6 +47,6 @@ SEVESO-classified industrial site, and technical support.
 ### Toolbox
 
 **Cloud & platform** · Azure, GCP, AWS, Kubernetes, Docker, vSphere<br>
-**IaC & delivery** · Terraform, Atlantis, Helm, ArgoCD, GitHub Actions, Prometheus, Grafana, ELK<br>
-**Network & identity** · Cisco Meraki, Fortinet, FreeRADIUS, Okta, Intune, Apple Business Manager, Vault<br>
+**IaC & delivery** · Terraform, Atlantis, Helm, ArgoCD, GitHub Actions, Prometheus, Grafana, Loki, ELK<br>
+**Identity & security** · Okta, Vault, Intune, Apple Business Manager, FreeRADIUS, Cisco Meraki, Fortinet<br>
 **Scripting** · Bash, Python, Node.js, Go, TypeScript, Linux
