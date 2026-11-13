@@ -36,6 +36,16 @@ The full case studies are on [luca-borruto.com](https://luca-borruto.com).
 
 <table>
   <tr>
+    <td width="46%"><a href="https://github.com/lborruto/sims2-ds-hd"><img src="https://raw.githubusercontent.com/lborruto/sims2-ds-hd/main/docs/screenshots/town.webp" alt="sims2-ds-hd's window: the game's casino in widescreen, a plate saying what A does, the status bar along the bottom"></a></td>
+    <td valign="top">
+      <a href="https://github.com/lborruto/sims2-ds-hd"><b>sims2-ds-hd</b></a><br>
+      The Sims 2 for the Nintendo DS played like a console game: one widescreen window, a
+      controller, and every touch-screen menu redrawn in HD from the game's memory. Bring your
+      own game.<br>
+      <sub>C++ · SDL2 · melonDS</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="46%"><a href="https://github.com/lborruto/kelvin"><img src="https://raw.githubusercontent.com/lborruto/kelvin/main/docs/screenshots/home.webp" alt="Kelvin's home screen: each room with its temperature, this month's cost and today's schedule"></a></td>
     <td valign="top">
       <a href="https://github.com/lborruto/kelvin"><b>Kelvin</b></a><br>
